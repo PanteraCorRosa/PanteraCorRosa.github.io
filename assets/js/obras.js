@@ -1,8 +1,18 @@
 const obras = [
   {
     id: 1,
-    titulo: "Obra Exemplo",
-    descricao: "Uma história intensa cheia de mistério.",
+    titulo: "Nasci como a filha de uma Concubina de baixo escalão",
+    descricao: "Acompanhe a história de mistério e ação do ladrão mais elegante.",
+  },
+  {
+    id: 2,
+    titulo: "Bad guy",
+    descricao: "Segredos, intrigas e romance em uma cidade envolta em sombras.",
+  },
+  {
+    id: 3,
+    titulo: "Lendas do Dragão",
+    descricao: "Aventuras épicas com dragões, guerreiros e batalhas lendárias.",
   }
 ];
 
