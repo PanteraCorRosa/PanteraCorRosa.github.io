@@ -1,0 +1,8 @@
+{
+  "name": "Eclipse Br Scan",
+  "short_name": "Eclipse",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0f0f1a",
+  "theme_color": "#5e2b97"
+}
